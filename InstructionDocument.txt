@@ -1,0 +1,32 @@
+Requirements:
+1. 64-bit operating system 
+    For Windows, this is Windows 10 64-bit or later
+    For macOS, this is macOS 12.0 
+
+2. GitHub accepts Windows and Mac. (Also apparently Linux but that sounds a bit more complicated. I won't be covering that)
+
+
+Downloading GitHub Desktop:
+
+1. Go to your preferred search engine, and search "GitHub Desktop Download"
+2. The first link will likely be correct, but to be sure, the url is https://desktop.github.com/download/
+3. Download the version for your operating system
+
+
+Signing Up to GitHub.com:
+
+1. Go to github.com on your preferred search engine. Go to the top right corner to find "Sign Up"
+
+2. Connect with an email account. 
+   If you don't have an email account, I commend you for getting this      far in life without one.
+3. When you have filled all appropriate fields, select Create Account
+4. A code will be sent to your email. Find the code and input into the website
+5. Sign in to your new account.
+
+Linking GitHub.com and GitHub Desktop
+
+1. Sign in to your account in the GitHub Desktop app.
+
+
+In Case of Failure:
+Contact GitHub Support.
